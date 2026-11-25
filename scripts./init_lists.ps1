@@ -1,4 +1,3 @@
-
 $Host.UI.RawUI.WindowTitle = "ybzapret - Lists & Folders Generator"
 
 # Base paths relative to scripts folder
