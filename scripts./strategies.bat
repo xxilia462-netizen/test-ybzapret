@@ -1,4 +1,3 @@
-
 @echo off
 title ybzapret - Select Strategy
 
