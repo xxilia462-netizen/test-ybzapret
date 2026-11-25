@@ -1,4 +1,3 @@
-
 @echo off
 title ybzapret - Install Windows Service
 
